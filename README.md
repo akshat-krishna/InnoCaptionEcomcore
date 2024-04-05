@@ -11,7 +11,6 @@ This is the front end of [ecomcore](https://github.com/akshatkrishna/InnoCaption
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.<br />
 
-`NOTE: Please keep the ecomcore running before run this front-end App`
 
 Here is some preview of this App<br />
 ![Screenshot 2024-04-05 143442](https://github.com/akshat-krishna/InnoCaptionEcomcore/assets/35167989/c2582b5e-9df5-471b-af39-4e91841f3941)
