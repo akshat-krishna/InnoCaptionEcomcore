@@ -14,6 +14,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.<b
 `NOTE: Please keep the ecomcore running before run this front-end App`
 
 Here is some preview of this App<br />
-1. Default Homepage<br />
+![Screenshot 2024-04-05 143442](https://github.com/akshat-krishna/InnoCaptionEcomcore/assets/35167989/c2582b5e-9df5-471b-af39-4e91841f3941)
+![Screenshot 2024-04-05 143412](https://github.com/akshat-krishna/InnoCaptionEcomcore/assets/35167989/5f87765c-e38b-476e-aeb7-6402f797b50b)
 <br />
-2. Homepage with shopping cart<br />
