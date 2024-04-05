@@ -1,0 +1,60 @@
+#sideBarContainer {
+	width: 200px;
+	padding-top: 50px;
+	box-shadow: -5px 0px 15px #BDBDBD;
+	transition: .3s ease-in-out;
+	position: fixed;
+	left: 0;
+	height: 100vh;
+	background: #ffffff;
+	overflow: auto;
+}
+#sideBarBody {
+	padding: 0px 20px 0px 20px;
+	height: 95%;
+}
+#sideBarBody ul {
+	padding: 0px;
+}
+
+#sideBarHeader {
+	font-size: 18pt;
+	background: #212121;
+	padding: 0px 20px 0px 20px;
+	margin: 8px 0px;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-moz-background-clip: text;
+	-moz-text-fill-color: transparent;
+}
+
+#sideBarBody ul a li {
+	list-style-type: none;
+	margin: 7px 0px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #9E9E9E;
+	border-style: solid;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	font-size: 12pt;
+	background: #212121;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-moz-background-clip: text;
+	-moz-text-fill-color: transparent;
+}
+#sideBarBody ul a {
+	text-decoration: none;
+}
+#sideBarBody ul a:hover li {
+	background: #212121;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-moz-background-clip: text;
+	-moz-text-fill-color: transparent;
+}
+#sideBarSearchContainer {
+	display: none;
+	list-style-type: none;
+}
